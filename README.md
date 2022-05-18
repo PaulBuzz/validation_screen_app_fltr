@@ -1,6 +1,6 @@
-# tbr_test_task
+# validation_screen
 
-A new Flutter project.
+Validation Screen mini-app. PLEASE ENABLE NULL SAFETY BEFORE TRYING IT OUT.
 
 ## Getting Started
 
